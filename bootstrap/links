@@ -1,0 +1,9 @@
+Bootstrap links and files
+
+link for react and Bootstrap
+//use with themes
+https://bootswatch.com/
+
+<link rel="stylesheet" href="%PUBLIC_URL%/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
